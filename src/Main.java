@@ -16,7 +16,14 @@ public class Main {
         System.out.println("l = " + l);
         System.out.println("s = " + s);
         System.out.println("b = " + b);
-        //check lr2
+//        public static void main(String[] args) {
+//            double s = 10.0;
+//            double f1 = 5.0;
+//            double l = 0.5;
+//
+//            double result = Math.log(s) + Math.log10(f1) - Math.asin(l);
+//
+//            System.out.println("Res = " + result);
 
 
     }
